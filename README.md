@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaswanth45R
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning data analytics from Google 
-- 💞️ I’m looking to collaborate on data analysis 
+- 👀 I’m interested in Deep learning , AI
+- 🌱 I’m currently learning data science from Almabetter
+- 💞️ I’m looking to collaborate on data science and AI projects
 - 📫 pyaswanth4@gmail.com
 
 <!---

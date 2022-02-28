@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yaswanth45R
-- 👀 I’m interested in Web Development,Logistics,permaculture
+- 👀 I’m interested in Web Development,Logistics,Permaculture
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on web development projects(mostly front-end)
 - 📫 pyaswanth4@gmail.com

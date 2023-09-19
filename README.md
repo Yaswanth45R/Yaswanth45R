@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaswanth
 - 👀 I’m interested in Web Development,Logistics,Permaculture
-- 🌱 I’m currently learning MERN Full stack and DotNet Full stack 
+- 🌱 I’m currently learning new things every day about building web app's and app's
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 pyaswanth4@gmail.com
 

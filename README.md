@@ -23,7 +23,7 @@ I'm a **Full Stack Developper** student <img src="https://media.giphy.com/media/
 - :telescope: I’m currently working as a Software Engineer building web applications.
 - :seedling: Currently following the <a href="https://www.theodinproject.com/">Odin Project</a> to improve my skills and knowledge.
 - :zap: In my free time, I solve problems on <a href="https://exercism.org/">Exercism</a> and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:thibault.castelli@pm.me)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:pyaswanth4@gmail.com)
 
 ---
 

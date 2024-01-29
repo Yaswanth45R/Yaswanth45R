@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/yashwanth1012">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:thibault.castelli@pm.me">
+    <a href="mailto:pyaswanth4@gmail.com">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail Badge">
     </a>
     <a href="https://www.instagram.com/thibaultcastelli/">

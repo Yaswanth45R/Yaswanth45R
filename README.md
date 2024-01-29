@@ -7,8 +7,8 @@
     <a href="mailto:pyaswanth4@gmail.com">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail Badge">
     </a>
-    <a href="https://www.instagram.com/thibaultcastelli/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <a href="https://twitter.com/PYaswanthreddy">
+      <img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=nineInchClous&style=flat-square&color=blue" alt="profile views count"/>

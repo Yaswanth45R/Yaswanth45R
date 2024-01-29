@@ -1,6 +1,6 @@
 ![image](https://github.com/Yaswanth45R/Yaswanth45R/assets/83106219/b0acfa48-fcd1-47e3-bbae-c87a12b1cc25 | width)
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Yaswanth45R/Yaswanth45R/assets/83106219/b0acfa48-fcd1-47e3-bbae-c87a12b1cc25)" width="200" height="400" />
+<img src="https://github.com/Yaswanth45R/Yaswanth45R/assets/83106219/b0acfa48-fcd1-47e3-bbae-c87a12b1cc25" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Yaswanth45R/Yaswanth45R/assets/83106219/b0acfa48-fcd1-47e3-bbae-c87a12b1cc25)" width="200" height="400" />
 
 - 👋 Hi, I’m @Yashwanth
 - 👀 I’m interested in Web Development,Logistics,Permaculture

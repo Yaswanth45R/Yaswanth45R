@@ -58,8 +58,6 @@ I'm a **Full Stack Developper** student <img src="https://media.giphy.com/media/
 
 
 <!--
-**nineInchClous/nineInchClous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

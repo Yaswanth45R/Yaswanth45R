@@ -1,4 +1,3 @@
-![image](https://github.com/Yaswanth45R/Yaswanth45R/assets/83106219/b0acfa48-fcd1-47e3-bbae-c87a12b1cc25 | width)
 
 <img src="https://github.com/Yaswanth45R/Yaswanth45R/assets/83106219/b0acfa48-fcd1-47e3-bbae-c87a12b1cc25" width="400" height="400" />
 

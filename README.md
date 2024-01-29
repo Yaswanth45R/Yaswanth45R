@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=nineInchClous&style=flat-square&color=blue" alt="profile views count"/>
   
-  ### Hi, I'm Thibault 👋🏻
+  ### Hi, I'm Yashwanth 👋🏻
 </div>
 
 ---

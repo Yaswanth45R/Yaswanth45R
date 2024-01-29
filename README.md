@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail Badge">
     </a>
     <a href="https://twitter.com/PYaswanthreddy">
-      <img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=nineInchClous&style=flat-square&color=blue" alt="profile views count"/>

@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About me
-I'm a **Software Developer** by profession, but in my mind, I convince myself that I’m an entrepreneur — yeah, an overused word on the internet <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyMHk5b3liZWV3MGk3eTA2cG0zNmZkM2YybDV2NnF1Ym42ampkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJUhSOR9agCiXPFBqu/giphy.gif" alt="wave gif" width="30"> from Bengaluru 
+I'm a **Software Developer** by profession, but in my mind, I convince myself that I’m an entrepreneur — yeah, an overused word on the internet. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyMHk5b3liZWV3MGk3eTA2cG0zNmZkM2YybDV2NnF1Ym42ampkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJUhSOR9agCiXPFBqu/giphy.gif" alt="wave gif" width="30"> I am from Bengaluru 
 - :telescope: I’m currently working as a Software Engineer building web applications.
 - :seedling: I’m currently exploring a wide range of interests, from AI to natural farming..
 - :zap: In my free time, I just want to be free — to let my mind rethink and wander. But if I end up doomscrolling, I somehow feel like it’s not a good use of time.

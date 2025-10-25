@@ -7,7 +7,7 @@
     <a href="mailto:pyaswanth4@gmail.com">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail Badge">
     </a>
-    <a href="https://twitter.com/PYaswanthreddy">
+    <a href="https://twitter.com/Yaswanthre69055">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
